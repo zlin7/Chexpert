@@ -1,6 +1,6 @@
 {
-    "train_csv": "/home/zhlin/Desktop/ClassDepML/extern/Chexpert/config/train_small.csv",
-    "dev_csv": "/home/zhlin/Desktop/ClassDepML/extern/Chexpert/config/dev_small.csv",
+    "train_csv": "/home/zhenlin4/gitRes/ClassDepML/extern/Chexpert/config/train_small.csv",
+    "dev_csv": "/home/zhenlin4/gitRes/ClassDepML/extern/Chexpert/config/dev_small.csv",
     "backbone": "densenet121",
     "width": 512,
     "height": 512,

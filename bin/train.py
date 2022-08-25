@@ -475,3 +475,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+# python Chexpert/bin/train.py Chexpert/config/example.json logdir --num_workers 8 --device_ids "0,1,2,3"
